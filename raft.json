@@ -1,0 +1,62 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": false,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://termly.io/privacy-policy/"
+    },
+    "GuideContent": [
+        {
+            "title": "Introduction",
+            "description": "This mode is just to create the raft of your dreams without having to gather any material. Everything can be crafted for free.  "
+        },
+        {
+            "title": "Note ",
+            "description": "When you die, you can respawn by yourself but you will lose all of your inventory. "
+        },
+        {
+            "title": "The basics",
+            "description": " You start with a Hook, use it to grab everything that's floating in the water."
+        },
+        {
+            "title": "About This Game ",
+            "description": "Try to swim to the rafts and climb to the top to get the crate which can hold lots of really useful and hard to come  "
+        },
+        {
+            "title": "Saving builds & Clearing objects",
+            "description": "You can save and paste builds. Saved builds can be pasted at any time, including in different game sessions, and as many times as you want.To save builds, click and hold down on the screen and drag to create a green box. "
+        }
+    ]
+}
